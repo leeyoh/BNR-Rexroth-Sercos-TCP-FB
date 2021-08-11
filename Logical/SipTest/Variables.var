@@ -1,0 +1,4 @@
+VAR
+	SIP_1 : SIP;
+	SIP_0 : SIP;
+END_VAR
